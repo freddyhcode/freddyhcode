@@ -2,8 +2,6 @@
 
 > I'm Freddy, a developer who enjoys building things and learning along the way.
 
-### Stack
-
 <p>
   <img alt="Dart" src="https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=dart&logoColor=white">
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white">
